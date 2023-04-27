@@ -13,6 +13,7 @@ export default {
 				'neutral-light-grey': 'hsl(0, 0%, 86%)',
 				'neutral-smokey-grey': 'hsl(0, 1%, 44%)',
 				'neutral-off-black': 'hsl(0, 0%, 8%)',
+				'attribution': 'hsl(228, 45%, 44%)',
 			},
 			fontSize: {
 				'inputs': '2rem',
